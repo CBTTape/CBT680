@@ -1,0 +1,20 @@
+2023-08-06 06:27:18.268528 - Initialized conversion of CBT680
+2023-08-06 06:27:18.561089 - Received CBT.V505.FILE680.PDS from FILE680.XMI 
+2023-08-06 06:27:18.563577 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE680.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:27:18.565702 - De-xmi-ed @EDITMAC to CBT680/docs/@EDITMAC.doc
+2023-08-06 06:27:18.566719 - Found @FILE680.txt (text/plain) in CBT.V505.FILE680.PDS, moved to PDS/@FILE680
+2023-08-06 06:27:18.568625 - De-xmi-ed @ISPF to CBT680/docs/@ISPF.doc
+2023-08-06 06:27:18.570470 - De-xmi-ed @PARSE to CBT680/docs/@PARSE.doc
+2023-08-06 06:27:18.572594 - De-xmi-ed @PDSMAN to CBT680/docs/@PDSMAN.doc
+2023-08-06 06:27:18.574725 - De-xmi-ed @REXX to CBT680/docs/@REXX.doc
+2023-08-06 06:27:18.576576 - De-xmi-ed @REXXEX to CBT680/docs/@REXXEX.doc
+2023-08-06 06:27:18.578450 - De-xmi-ed @REXXVAR to CBT680/docs/@REXXVAR.doc
+2023-08-06 06:27:18.580308 - De-xmi-ed @TSO to CBT680/docs/@TSO.doc
+2023-08-06 06:27:18.581237 - Found EDITMAC.txt (text/plain) in CBT.V505.FILE680.PDS, moved to PDS/EDITMAC
+2023-08-06 06:27:18.582141 - Found ISPF.txt (text/plain) in CBT.V505.FILE680.PDS, moved to PDS/ISPF
+2023-08-06 06:27:18.583020 - Found PARSE.txt (text/plain) in CBT.V505.FILE680.PDS, moved to PDS/PARSE
+2023-08-06 06:27:18.583959 - Found PDSMAN.txt (text/plain) in CBT.V505.FILE680.PDS, moved to PDS/PDSMAN
+2023-08-06 06:27:18.584864 - Found REXX.txt (text/plain) in CBT.V505.FILE680.PDS, moved to PDS/REXX
+2023-08-06 06:27:18.585773 - Found REXXEX.txt (text/plain) in CBT.V505.FILE680.PDS, moved to PDS/REXXEX
+2023-08-06 06:27:18.586641 - Found REXXVAR.txt (text/plain) in CBT.V505.FILE680.PDS, moved to PDS/REXXVAR
+2023-08-06 06:27:18.587619 - Found TSO.txt (text/plain) in CBT.V505.FILE680.PDS, moved to PDS/TSO
