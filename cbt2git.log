@@ -1,0 +1,19 @@
+2025-04-13 21:46:10.522214 - Received CBT.V508.FILE680.PDS from FILE680.XMI 
+2025-04-13 21:46:10.523645 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE680.PDS, moved to PDS/$$$#DATE
+2025-04-13 21:46:10.523906 - Found @EDITMAC.doc (application/msword) in CBT.V508.FILE680.PDS, moved to docs/@EDITMAC.doc
+2025-04-13 21:46:10.523978 - Found @FILE680.txt (text/plain) in CBT.V508.FILE680.PDS, moved to PDS/@FILE680
+2025-04-13 21:46:10.524273 - Found @ISPF.doc (application/msword) in CBT.V508.FILE680.PDS, moved to docs/@ISPF.doc
+2025-04-13 21:46:10.524379 - Found @PARSE.doc (application/msword) in CBT.V508.FILE680.PDS, moved to docs/@PARSE.doc
+2025-04-13 21:46:10.524718 - Found @PDSMAN.doc (application/msword) in CBT.V508.FILE680.PDS, moved to docs/@PDSMAN.doc
+2025-04-13 21:46:10.525074 - Found @REXX.doc (application/msword) in CBT.V508.FILE680.PDS, moved to docs/@REXX.doc
+2025-04-13 21:46:10.525166 - Found @REXXEX.doc (application/msword) in CBT.V508.FILE680.PDS, moved to docs/@REXXEX.doc
+2025-04-13 21:46:10.525248 - Found @REXXVAR.doc (application/msword) in CBT.V508.FILE680.PDS, moved to docs/@REXXVAR.doc
+2025-04-13 21:46:10.525386 - Found @TSO.doc (application/msword) in CBT.V508.FILE680.PDS, moved to docs/@TSO.doc
+2025-04-13 21:46:10.525455 - Found EDITMAC.txt (text/plain) in CBT.V508.FILE680.PDS, moved to PDS/EDITMAC
+2025-04-13 21:46:10.525560 - Found ISPF.txt (text/plain) in CBT.V508.FILE680.PDS, moved to PDS/ISPF
+2025-04-13 21:46:10.525625 - Found PARSE.txt (text/plain) in CBT.V508.FILE680.PDS, moved to PDS/PARSE
+2025-04-13 21:46:10.525707 - Found PDSMAN.txt (text/plain) in CBT.V508.FILE680.PDS, moved to PDS/PDSMAN
+2025-04-13 21:46:10.525819 - Found REXX.txt (text/plain) in CBT.V508.FILE680.PDS, moved to PDS/REXX
+2025-04-13 21:46:10.525908 - Found REXXEX.txt (text/plain) in CBT.V508.FILE680.PDS, moved to PDS/REXXEX
+2025-04-13 21:46:10.525972 - Found REXXVAR.txt (text/plain) in CBT.V508.FILE680.PDS, moved to PDS/REXXVAR
+2025-04-13 21:46:10.526040 - Found TSO.txt (text/plain) in CBT.V508.FILE680.PDS, moved to PDS/TSO
